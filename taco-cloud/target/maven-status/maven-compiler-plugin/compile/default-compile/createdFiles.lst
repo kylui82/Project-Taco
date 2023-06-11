@@ -1,2 +1,9 @@
-sia/tacocloud/TacoCloudApplication.class
-tacos/HomeController.class
+tacos/TacoCloudApplication.class
+tacos/Ingredient.class
+tacos/web/WebConfig.class
+tacos/web/DesignTacoController.class
+tacos/web/IngredientByIdConverter.class
+tacos/Ingredient$Type.class
+tacos/TacoOrder.class
+tacos/Taco.class
+tacos/web/OrderController.class
